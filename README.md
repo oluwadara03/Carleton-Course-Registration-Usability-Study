@@ -4,9 +4,9 @@ This project involved a redesign of the Carleton Central course registration int
 ---
 
 ## 🔗 Project Links
-- [🎨 Interactive Figma Prototype](https://www.figma.com/proto/wqUzYnnLBPrBniE2n14mqX/Simplifying-Carleton-Central-Course-Registration?node-id=1-2&starting-point-node-id=1%3A2&show-proto-sidebar=1&t=F4x5mLFDFR81TMP9-1)
+- [🎨 Figma Prototype](https://www.figma.com/proto/wqUzYnnLBPrBniE2n14mqX/Simplifying-Carleton-Central-Course-Registration?node-id=1-2&starting-point-node-id=1%3A2&show-proto-sidebar=1&t=F4x5mLFDFR81TMP9-1)
 - [📄 Usability Report (PDF)](Report/report.pdf)
-- [📊 Python Data Analysis Script](./Analysis/analysis.py)
+- [📊 Python Sample Analysis Script](./Analysis/analysis.py)
 
 ---
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/58214643-3933-40ab-bbec-c3b8a082e790
 
 ---
 
-## 🚀 How to Run the Analysis
+## 🚀 Run Analysis
 To view the statistical analysis for one of the graphs:
 1. Clone the repo: `git clone https://github.com` OR download the project as a `.zip` file
 2. Install dependencies: `pip install pandas scipy`

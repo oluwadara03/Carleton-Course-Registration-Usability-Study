@@ -1,4 +1,4 @@
-# 🎓 Carleton Course Registration Usability Study
+## 🎓 Carleton Course Registration Usability Study
 This project involved a redesign of the Carleton Central course registration interface, with a statistical analysis described in the `report.pdf`. Six Carleton University students took part in this experiment. The goal of the experiment was to simplify the complex registration flow by reducing back and forth navigation, and user confusion during course selection. By applying HCI principles, the new interface lowered cognitive load and simplified course searching for a successful registration.
 
 ---

@@ -11,7 +11,7 @@ This project involved a redesign of the Carleton Central course registration int
 ---
 
 ## 📺 Project Demo
-https://github.com/user-attachments/assets/08dd102e-a785-4d00-97d5-27b28887d2e2
+https://github.com/user-attachments/assets/58214643-3933-40ab-bbec-c3b8a082e790
 
 ---
 
